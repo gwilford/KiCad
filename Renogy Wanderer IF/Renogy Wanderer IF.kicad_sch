@@ -981,10 +981,10 @@
       (reference "#PWR011") (unit 1) (value "+5V") (footprint "")
     )
     (path "/51978987-bee1-4381-9232-b8b6e9a5316d"
-      (reference "A1") (unit 1) (value "MINI-360") (footprint "")
+      (reference "A1") (unit 1) (value "MINI-360") (footprint "Module:MINI-360")
     )
     (path "/da01b3e4-26f2-4f90-b4fe-3db1c5dc3840"
-      (reference "A2") (unit 1) (value "MAX3232 module") (footprint "")
+      (reference "A2") (unit 1) (value "MAX3232 module") (footprint "Module:MAX3232 module")
     )
     (path "/c0ff5ddf-dec1-4710-89a0-57f597d38d9f"
       (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_Wire:SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm")
